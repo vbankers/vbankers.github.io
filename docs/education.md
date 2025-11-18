@@ -11,18 +11,19 @@
       <span class="timeline-role">Master's Degree in Biomedical Engineering</span>
       <span class="timeline-dates">Sept 2024 – <strong class="text-accent">Present</strong></span>
     </div>
-    <div class="timeline-desc">Exploring the scaling laws of AI Safety.</div>
+    <div class="timeline-meta">Zürich, CH </div>
+    <div class="timeline-desc">Relevant coursework : </div>
   </div>
 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">Spotify</span>
-      <span class="timeline-role">Research Scientist Intern</span>
-      <span class="timeline-dates">Jun 2025 – Aug 2025</span>
+      <span class="timeline-org">Politecnico di Milano </span>
+      <span class="timeline-role">Bahcelor's degree in Biomedical Engineering </span>
+      <span class="timeline-dates">Sept 2021 – Jul 2024</span>
     </div>
-    <div class="timeline-meta">London, UK • Hybrid</div>
-    <div class="timeline-desc">Investigating mechanistic interpretability for long-context reasoning in LLMs.</div>
+    <div class="timeline-meta">Milan, IT </div>
+    <div class="timeline-desc"> Graduated cum laude </div>
   </div>
 
 </div>

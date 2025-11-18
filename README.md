@@ -15,6 +15,6 @@ My personal portfolio website  about my interests and research in Biomedical Ima
 - `docs/styles.css` - Styling
 - `docs/script.js` - Functionality
 
-Used J. Rosser template available here [github-repo] : (https://github.com/jrosseruk/jrosseruk.github.io)
+Used J. Rosser template available here [github-repo](https://github.com/jrosseruk/jrosseruk.github.io)
 
-Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/ :)
+Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/)

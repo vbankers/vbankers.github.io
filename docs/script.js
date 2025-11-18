@@ -446,8 +446,8 @@ class MarkdownLoader {
         const startY = rect.top + rect.height / 2;
 
         const bee = document.createElement('div');
-        bee.className = 'flying-bee';
-        bee.textContent = '🐝';
+        bee.className = 'brain';
+        bee.textContent = '🧠';
         bee.style.left = startX + 'px';
         bee.style.top = startY + 'px';
 

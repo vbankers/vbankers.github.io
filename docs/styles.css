@@ -190,18 +190,18 @@ body {
     color: #ffd400; /* yellow */
 }
 
-/* Flying bee emoji created on clicking a 'b' */
-.flying-bee {
+/* Flying brain emoji created on clicking a 'b' */
+.brain {
     position: fixed;
     z-index: 9999;
     pointer-events: none;
     font-size: 1.2em;
     line-height: 1;
     will-change: transform, opacity;
-    animation: bee-fly 3s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+    animation: brain-fly 3s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
 }
 
-@keyframes bee-fly {
+@keyframes brain-fly {
     0% {
         transform: translate(0, 0) rotate(0deg);
         opacity: 1;
@@ -225,10 +225,10 @@ body {
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .flying-bee {
-        animation: bee-fade 250ms ease-out forwards;
+    .brain {
+        animation: brain-fade 250ms ease-out forwards;
     }
-    @keyframes bee-fade {
+    @keyframes brain-fade {
         to { opacity: 0; }
     }
 }

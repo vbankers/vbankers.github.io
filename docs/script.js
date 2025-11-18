@@ -438,40 +438,40 @@ class MarkdownLoader {
     window.applyBHoverEffect = applyBHoverEffect;
 })();
 
-// Bee spawning when clicking on a 'b'/'B'
+// brain spawning when clicking on a 'b'/'B'
 (function() {
-    function spawnBeeFromElement(el) {
+    function spawnBrainFromElement(el) {
         const rect = el.getBoundingClientRect();
         const startX = rect.left + rect.width / 2;
         const startY = rect.top + rect.height / 2;
 
-        const bee = document.createElement('div');
-        bee.className = 'brain';
-        bee.textContent = '🧠';
-        bee.style.left = startX + 'px';
-        bee.style.top = startY + 'px';
+        const brain = document.createElement('div');
+        brain.className = 'brain';
+        brain.textContent = '🧠';
+        brain.style.left = startX + 'px';
+        brain.style.top = startY + 'px';
 
         // Random off-screen direction
         const angle = Math.random() * Math.PI * 2;
         const distance = Math.max(window.innerWidth, window.innerHeight) + 200;
         const dx = Math.cos(angle) * distance;
         const dy = Math.sin(angle) * distance;
-        bee.style.setProperty('--dx', dx + 'px');
-        bee.style.setProperty('--dy', dy + 'px');
+        brain.style.setProperty('--dx', dx + 'px');
+        brain.style.setProperty('--dy', dy + 'px');
 
-        document.body.appendChild(bee);
+        document.body.appendChild(brain);
 
         const cleanup = () => {
-            if (bee && bee.parentNode) bee.parentNode.removeChild(bee);
+            if (brain && brain.parentNode) brain.parentNode.removeChild(brain);
         };
-        bee.addEventListener('animationend', cleanup, { once: true });
+        brain.addEventListener('animationend', cleanup, { once: true });
         setTimeout(cleanup, 4000);
     }
 
     document.addEventListener('click', (e) => {
         const target = e.target;
         if (target && target.classList && target.classList.contains('hover-b')) {
-            spawnBeeFromElement(target);
+            spawnBrainFromElement(target);
         }
     });
 })();

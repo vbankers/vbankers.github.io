@@ -12,7 +12,8 @@
       <span class="timeline-dates">Sept 2024 – <strong class="text-accent">Present</strong></span>
     </div>
     <div class="timeline-meta">Zürich, CH </div>
-    <div class="timeline-desc">Relevant coursework : </div>
+    <div class="timeline-desc">Relevant coursework: Image Analysis & Computer Vision, Biomedical Imaging, Neuroinformatics, Micro
+and Nano Tomography, Biostatistics, Introduction to Machine Learning, Medical Image Analysis, Mobile Health and Activity Monitoring. </div>
   </div>
 
   <div class="timeline-item">
@@ -24,6 +25,7 @@
     </div>
     <div class="timeline-meta">Milan, IT </div>
     <div class="timeline-desc"> Graduated cum laude </div>
+    <div class="timeline-desc"> Relevant Coursework: Electronics, Signal Processing, Biomedical Imaging, Anatomy and Physiology.</div>
   </div>
 
 </div>

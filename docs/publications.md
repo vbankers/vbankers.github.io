@@ -4,11 +4,11 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
+        <img src="assets/image.png" alt="fNIRS publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="/fNIRS" class="publication-link"> http://dx.doi.org/10.1117/1.nph.12.4.045008
                 Transformer-based deep learning model for predicting fNIRS short-channel signals 
             </a>
         </h3>

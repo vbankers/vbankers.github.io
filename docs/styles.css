@@ -14,7 +14,7 @@ html {
     /* Light theme colors (inspired by astro-theme-cactus) */
     --color-global-bg: oklch(98.48% 0 0);
     --color-global-text: oklch(26.99% 0.0096 235.05);
-    --color-link: oklch(55.44% 0.0431 185.69);
+    --color-link: oklch(81.503% 0.09097 184.972);
     --color-accent: #677eff;
     --color-accent-2: oklch(18.15% 0 0);
     --color-quote: #bb67ff;
@@ -27,7 +27,7 @@ html {
 [data-theme="dark"] {
     --color-global-bg: oklch(23.64% 0.0045 248);
     --color-global-text: oklch(83.54% 0 264);
-    --color-link: oklch(70.44% 0.1133 349);
+    --color-link: oklch(75.76% 0.11527 150.035);
     --color-accent: #5ff26b;
     --color-accent-2: oklch(94.66% 0 0);
     --color-quote: oklch(94.8% 0.106 136.49);

@@ -29,8 +29,6 @@
 
 
 
-I'm Vittoria ....
+I am Vittoria Banchieri, a Master Student in Biomedical Engineering at ETH Zurich. My research interests lie at the intersection of bioimaging physics, image analysis, and machine learning. I am passionate about learning more about how current advances in AI can be applied to solve challenges in biomedical imaging, solving real and grounded clinical problems.
 
-Previously, 
-
-P.S. 
+I am currently workin on metal artifacts analysis in MRI images, at Siemens Healthineers under the supervison of Dr. Von Deuster. 

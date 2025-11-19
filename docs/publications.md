@@ -8,7 +8,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/fNIRS" class="publication-link"> http://dx.doi.org/10.1117/1.nph.12.4.045008
+            <a href="http://dx.doi.org/10.1117/1.nph.12.4.045008" class="publication-link"> 
                 Transformer-based deep learning model for predicting fNIRS short-channel signals 
             </a>
         </h3>
